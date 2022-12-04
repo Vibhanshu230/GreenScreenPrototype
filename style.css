@@ -1,0 +1,12 @@
+canvas{
+  width:200px;
+  border: 1px solid grey;
+}
+body{
+  background-color:wheat;
+  font-familt:Verdana;
+   margin: 40px;
+}
+input {
+  font-size: 12pt;
+}
